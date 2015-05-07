@@ -1,0 +1,12 @@
+.DS_Store
+
+# eclipse config
+.metadata/
+.recommenders/
+.settings/
+.classpath
+.project
+
+
+# generated files
+bin/
